@@ -1,1 +1,1 @@
-# This is local repo for workspace and i  going to practice python for devops today is going to learn day9 of python for devops 
+# This is local repo for workspace and i  going to practice python for devops today is going to learn day10 of python for devops by Abhishek sir now i am going to post on LinkedIn 
