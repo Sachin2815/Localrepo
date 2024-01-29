@@ -1,1 +1,2 @@
-# This is local repo for workspace and i  going to practice python for devops today is going to learn day12 of learning python for devops by Abhishek sir now i am going prepare for my exam i am not able to start python for devOps 
+# This is local repo for workspace and i  going to practice python for devops today is going to learn day12 of learning python for devops by Abhishek sir now i am going prepare for my exam,
+today i am finished my first RtU paper 
